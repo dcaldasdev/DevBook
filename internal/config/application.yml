@@ -1,0 +1,11 @@
+# APPLICATION PORT
+api-port: 5000 
+
+# DATABASE CONFIGURATION
+db:
+  mysql:
+    user: root
+    pass: root
+    port: 3306
+    name: devbook
+
